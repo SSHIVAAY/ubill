@@ -1,6 +1,3 @@
--- UBill Database (Upgraded Version)
--- Includes sample data + improved cart system
--- No private real user data included
 
 CREATE DATABASE IF NOT EXISTS `ubill` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
 USE `ubill`;
