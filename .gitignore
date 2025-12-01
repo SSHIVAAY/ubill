@@ -1,0 +1,28 @@
+# Ignore PHPMailer extra files
+PHPMailer/language/
+PHPMailer/examples/
+PHPMailer/docs/
+PHPMailer/test/
+
+# Ignore image/test uploads
+*.jpg
+*.jpeg
+*.png
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore XAMPP temp folders
+tmp/
+temp/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore logs
+*.log
+
+# Ignore composer files (if exists)
+vendor/
+composer.lock
